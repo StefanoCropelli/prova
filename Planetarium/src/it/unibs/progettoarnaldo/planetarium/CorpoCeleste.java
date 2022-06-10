@@ -1,6 +1,7 @@
 package it.unibs.progettoarnaldo.planetarium;
 
 import java.util.ArrayList;
+import it.unibs.fp.mylib.InputDati;
 
 public class CorpoCeleste {
 
